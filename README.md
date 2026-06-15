@@ -1,7 +1,7 @@
 # 🛰️ Remote Sensing Image Segmentation with Partial Cross-Entropy Loss
 
 > **Technical Assessment — Machine Learning Engineer | Sodiq Adewale Mojeed**  
-> Submitted to: **Meritiinc** | June 2026
+> Submitted to: **Meritiinc** | June 2025
 
 ---
 
