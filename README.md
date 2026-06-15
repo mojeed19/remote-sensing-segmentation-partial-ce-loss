@@ -276,6 +276,6 @@ If you use this implementation, please cite:
 <div align="center">
 
 **Sodiq Adewale Mojeed** | Machine Learning Engineer  
-Technical Assessment Submission — Meritiinc | June 2026
+Technical Assessment Submission — Meritiinc | June 2025
 
 </div>
