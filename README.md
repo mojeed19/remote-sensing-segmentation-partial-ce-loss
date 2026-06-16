@@ -250,17 +250,7 @@ remote-sensing-partial-ce/
 
 ---
 
-## Citation
 
-If you use this implementation, please cite:
-
-```bibtex
-@misc{mojeed2026pce,
-  author    = {Sodiq Adewale Mojeed},
-  title     = {Remote Sensing Segmentation with Partial Cross-Entropy Loss},
-  year      = {2026},
-  note      = {Technical Assessment, Meritiinc ML Engineer Position}
-}
 ```
 
 ---
